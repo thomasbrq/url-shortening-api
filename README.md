@@ -28,7 +28,6 @@ Users should be able to:
 
 ### Built with
 
-- HTML
 - [Tailwind](https://tailwindcss.com/) - CSS framework
 - [AlpineJS](https://github.com/alpinejs/alpine/) - JS framework
 
