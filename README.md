@@ -30,6 +30,7 @@ Users should be able to:
 
 - [Tailwind](https://tailwindcss.com/) - CSS framework
 - [AlpineJS](https://github.com/alpinejs/alpine/) - JS framework
+- [JQuery](https://jquery.com/) - JS library
 - [clipboard.js](https://clipboardjs.com/) - JS script to copy to clipboard
 
 ## Author
